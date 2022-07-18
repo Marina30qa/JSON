@@ -1,7 +1,7 @@
 {
-"базовая теория": "багрепорты, документация, виды",
-"HTTP Методы запросов на сервер": "GET, POST, PUT",
-"Коды ответов HTTP сервера": 200, 201, 400, 404, 500, 502,
-"Тестирование API через Postman" : "JS, автотесты API",
-"Dev Tools веб браузеров": "Google Chrome, FireFox"
+	"basic_theory": ["багрепорты", "документация, виды"],
+	"http_methods": ["GET", "POST", "PUT"],
+	"http_codes": [200, 201, 400, 404, 500, 502],
+	"api_testing" : ["JS", "автотесты API"],
+	"dev_tools_web_browsers": ["Google Chrome", "FireFox"]
 }
